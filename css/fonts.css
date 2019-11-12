@@ -1,0 +1,35 @@
+@font-face {
+  font-family: "Gotham Bold";
+  src: url("../fonts/Gotham Bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Gotham Book";
+  src: url("../fonts/Gotham Book.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Gotham Medium";
+  src: url("../fonts/Gotham Medium.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "Roboto BoldCondensed";
+  src: url("../fonts/Roboto BoldCondensed.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Roboto-Regular";
+  src: url("../fonts/Roboto-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Myriad Pro";
+  src: url("../fonts/Myriad Pro.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "OpenSans";
+  src: url("../fonts/OpenSans.ttf") format("truetype");
+}
+/*# sourceMappingURL=fonts.css.map */

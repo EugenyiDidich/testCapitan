@@ -1,0 +1,21 @@
+/*==========  Desktop First Method  ==========*/
+@media only screen and (max-width: 1200px) {
+  .container {
+    width: 940px;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .container {
+    width: 750px;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  .container {
+    width: auto;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+}
+/*# sourceMappingURL=media.css.map */
